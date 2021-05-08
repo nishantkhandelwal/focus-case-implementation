@@ -1,3 +1,6 @@
+![Focus-Trends-and-Data-analysis-panel](https://user-images.githubusercontent.com/7908577/117548233-6cda0880-b051-11eb-8b1b-d45b799fca0d.png)
+
+
 # Focus-Case-analysis
 
 In this case study I have implemented below features:
